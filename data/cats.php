@@ -92,4 +92,12 @@ $_SESSION['item'][9]['theme'] = 'cats';
 $_SESSION['item'][9]['filename'] = 'data/images/cats/christchurch.jpg';
 $_SESSION['item'][9]['rating'] = 0;
 
+$_SESSION['item'][10]['name'] = 'space';
+$_SESSION['item'][10]['rank'] = 11;
+$_SESSION['item'][10]['caption'] = 'space';
+$_SESSION['item'][10]['trivia'] = "space";
+$_SESSION['item'][10]['theme'] = 'cats';
+$_SESSION['item'][10]['filename'] = 'data/images/cats/RZR_Space_1920x1080.jpg';
+$_SESSION['item'][10]['rating'] = 0;
+
 ?>
